@@ -4,6 +4,6 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Github Commit 1");
         System.out.println("Github Commit 2");
-        System.err.println("Git Branch 1");
+        System.err.println("Git Branch - newImage");
     }
 }
