@@ -5,5 +5,6 @@ public class App {
         System.out.println("Github Commit 1");
         System.out.println("Github Commit 2");
         System.err.println("Git Branch - newImage");
+        System.err.println("Git newImage - Logic Changed");
     }
 }
