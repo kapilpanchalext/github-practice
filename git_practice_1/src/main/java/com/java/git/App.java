@@ -11,5 +11,6 @@ public class App {
         System.err.println("Github Branch - bugFix");
         System.err.println("Created one more bugfix");
         System.err.println("Rebase BugFix to Main");
+        System.err.println("Git Branch - newImage");
     }
 }
