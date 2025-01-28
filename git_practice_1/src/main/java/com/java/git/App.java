@@ -6,5 +6,6 @@ public class App {
         System.out.println("Github Commit 2");
         System.err.println("Github Branch - bugFix");
         System.err.println("Created one more bugfix");
+        System.err.println("Rebase BugFix to Main");
     }
 }
