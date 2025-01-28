@@ -10,5 +10,7 @@ public class App {
         System.err.println("Rebase BugFix to Main");
         System.err.println("Git Branch - newImage");
         System.err.println("Git newImage - Logic Changed");
+        
+        System.err.println("Rebase - newImage");
     }
 }
