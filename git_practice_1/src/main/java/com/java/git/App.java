@@ -7,7 +7,12 @@ public class App {
         System.err.println("Github Branch - bugFix");
         System.err.println("Created one more bugfix");
         System.err.println("Rebase BugFix to Main");
+<<<<<<< Upstream, based on branch 'bugFix' of ssh://git@github.com/kapilpanchalext/github-practice.git
         System.err.println("Git Branch 1");
         System.err.println("Git Branch - newImage");
+=======
+        
+        System.err.println("BugFix Rebase 2");
+>>>>>>> a326563 [rebase] rebase2
     }
 }
