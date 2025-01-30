@@ -8,5 +8,7 @@ public class App {
         
         System.out.println("Main");
         
+        System.err.println("Added BugFix - Logic1");
+        
     }
 }
